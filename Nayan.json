@@ -6,18 +6,18 @@
   "language": "en",
   "notification": false,
   "approval": false,
-  "saveState": true,
+  "saveState": false,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "SaiFul",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61567256940629",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "61567256940629",
+    "https://www.facebook.com/saiful45111"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
